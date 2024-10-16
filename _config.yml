@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: Blog
+description: Interested in zk.
+author: Asehee
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: asehee127@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -30,14 +30,13 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username: asehee
   card: summary
 logo: logo.png
 social:
   name: Shangzhi Huang
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://twitter.com/asehee
+    - https://github.com/asehee
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
